@@ -3019,7 +3019,6 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=10
-#pragma pack(push, tp, 1)
 struct __StaticArrayInitTypeSizeU3D10_t2C3FE316018CB69925E106D582B6DCC02F2DEBC4 
 {
 public:
@@ -3036,11 +3035,9 @@ public:
 
 public:
 };
-#pragma pack(pop, tp)
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=12
-#pragma pack(push, tp, 1)
 struct __StaticArrayInitTypeSizeU3D12_t3703521128A2E0A2C30C9CB33A6733D70212C108 
 {
 public:
@@ -3057,11 +3054,9 @@ public:
 
 public:
 };
-#pragma pack(pop, tp)
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=28
-#pragma pack(push, tp, 1)
 struct __StaticArrayInitTypeSizeU3D28_tFC0B865780484B24AAE19015D7FDE869C15D0E25 
 {
 public:
@@ -3078,11 +3073,9 @@ public:
 
 public:
 };
-#pragma pack(pop, tp)
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=52
-#pragma pack(push, tp, 1)
 struct __StaticArrayInitTypeSizeU3D52_tA583D011C5E0C92A5EB1531EAF074C92F64920E8 
 {
 public:
@@ -3099,7 +3092,6 @@ public:
 
 public:
 };
-#pragma pack(pop, tp)
 
 
 // Newtonsoft.Json.Utilities.ConvertUtils/TypeConvertKey
