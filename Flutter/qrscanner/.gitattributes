@@ -1,9 +1,9 @@
 ## Unity ##
-
+*.C++ linguist-detectable=false
 *.cs diff=csharp text
 *.cginc text
 *.shader text
-*.C++ linguist-detectable=false
+
 
 *.mat merge=unityyamlmerge eol=lf
 *.anim merge=unityyamlmerge eol=lf
